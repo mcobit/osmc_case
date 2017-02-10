@@ -28,6 +28,19 @@ Cut this from a new sheet.
 - You need non-conductive spacers of 2mm height, that go between the Pi and the case.
 - Use very short screws to mount the powersupply to not damage the board inside or accidentally connect mains voltage to the screws on the outside as this would trigger a breaker!
 - Use M2.5 or M2 screws and nuts to mount the raspberry. All other screws and nuts are M3.
+Partslist:
+With example links to Amazon. You might be able to source the parts somewhere else cheaper.
 
+    Raspberry Pi 1 Model B+, 2 Model B or 3 Model B
+    Powersupply Meanwell RS-25-5
+    https://www.amazon.de/Schaltnetzteil-Netzteil-25W-MeanWell-RS-25-5/dp/B00MWQDAMU/ref=sr_1_1?ie=UTF8&qid=1486746148&sr=8-1&keywords=Meanwell+rs25-5
+    LCD 1602A or other 16x2 Characters HD44780 compatible with same dimensions.
+    https://www.amazon.de/HD44780-Module-Display-Anzeigen-Zeichen/dp/B009GEPZRE/ref=sr_1_1?ie=UTF8&qid=1486746223&sr=8-1&keywords=1602A
+    IEC socket
+    https://www.amazon.de/KALTGER%C3%84TE-STECKER-EINBAU-BUCHSE-SOCKET/dp/B01KZEYLX2/ref=sr_1_1?ie=UTF8&qid=1486746342&sr=8-1&keywords=IEC+socket
+    Fuse holder (use 1A time-lag fuse)
+    https://www.amazon.de/Sicherungshalter-mit-8A-Abschmelzsicherung-Schraubanschluss/dp/B00ELLWBME/ref=sr_1_18?ie=UTF8&qid=1486746423&sr=8-18&keywords=sicherungshalter
+
+And of course all the small bits and pieces like cables, screws, nuts, resistors etc.
 
 Have Fun!
